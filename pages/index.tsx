@@ -4,7 +4,6 @@ import Box from './Components/Box'
 import CodingInfo from './Components/CodingInfo';
 import SovTech from './Components/SovTech'
 
-
 export default function Home() {
   return (
     <div>
@@ -39,10 +38,10 @@ export default function Home() {
           <SovTech />
           <div className='grid pt-5'>
             <div className="grid grid-cols-2 gap-4 mx-auto">
-              <a href="https://www.linkedin.com/in/littlevegasdavids/" target="_blank">
+              <a href="https://www.linkedin.com/in/littlevegasdavids/" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width={50}/>
               </a>
-              <a href="https://github.com/littlevegasdavids/" target="_blank">
+              <a href="https://github.com/littlevegasdavids/" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width={50} className="bg-white"/>
               </a>
             </div>
