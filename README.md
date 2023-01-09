@@ -17,6 +17,6 @@ Run the following commands:
 ## 🔧 Technologies 🔧
 NextJS, Tailwindcss and Daisyui
 <br/>
-<img align="middle" alt="Svelte" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="middle" alt="NextJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="middle" alt="Tailwindcss" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br/>
