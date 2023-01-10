@@ -11,7 +11,7 @@ export default function Home() {
         <title>Reno Davids</title>
         <link rel="icon" href="/icon.jpg" />
       </Head>
-      <div className="bg-white h-full">
+      <div className="bg-base-content h-full">
         <div className="grid max-w-7xl bg-base-100 mx-auto h-full shadow-lg p-8">
           <Header />
           
